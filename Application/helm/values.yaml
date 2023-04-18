@@ -30,4 +30,4 @@ test: Healty
 github:
   user: EvgenyMog
   token: 
-  url: <https://api.github.com/repos/EvgenyMog/redhatmicro/issues>
+  url: https://api.github.com/repos/EvgenyMog/redhatmicro/issues
